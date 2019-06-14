@@ -32,6 +32,15 @@ In future iterations, I would like to change the shooting sample to be something
 
 ## Pictures and Figures
 
+First Controller
 ![Controller 1](https://raw.githubusercontent.com/audioship/audioship.github.io/master/controller1.jpg)
+
+Second Controller
 ![Controller 2](https://raw.githubusercontent.com/audioship/audioship.github.io/master/controller2.jpg)
+
+The game display
 ![Display](https://raw.githubusercontent.com/audioship/audioship.github.io/master/displayScreen.PNG)
+
+## Demo
+
+<video src="https://youtu.be/STmd1hu7-gI" width="320" height="200" controls preload></video>
