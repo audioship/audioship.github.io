@@ -50,8 +50,6 @@ The game display
 <details><summary>Here is the code for my patch used in Audioship.</summary>
 <p>
 
-#### yes, even hidden code blocks!
-
 ```
 <pre><code>
 ----------begin_max5_patcher----------
