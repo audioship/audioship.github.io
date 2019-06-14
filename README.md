@@ -43,5 +43,4 @@ The game display
 
 ## Demo
 
-<iframe width="560" height="315" src="https://youtu.be/STmd1hu7-gI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/STmd1hu7-gI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
