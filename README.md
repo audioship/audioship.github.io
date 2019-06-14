@@ -14,6 +14,17 @@ The instrument is played using two buttons and a knob. The darker button on each
 
 The sounds that are produced are that of a space battle soundscape. There is ambient space sounds that play in the backdrop of the entire game. When the players shoot, a shot sound effect is made with whatever frequency has been indicated by the player. If a player hits an opposing player's ship, there will be an explosion sound effect to indicate it has been destroyed.
 
+## Building the Instrument
+
+### How is it built? What software and hardware are used?
+
+I built this instrument using a Max MSP patch that interprets the input from from the six sensors, all of which are connected to an Arduino Uno. The six sensors were two buttons and one knob on each of the controllers. These sensors were mounted on two adding machines, one an old fashioned tax adding machine and one a newer, more streamlined adding machine. The wiring for the sensors on each of the controllers are snaked together with a significant amount of length to enable greater flexibility in how for apart each of the players are during the performance. 
+
+## Lessons Learned
+
+### What lessons did I learn from making this instrument? What might I improve on in future iterations?
+
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
