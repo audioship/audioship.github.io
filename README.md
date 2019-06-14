@@ -24,6 +24,13 @@ I built this instrument using a Max MSP patch that interprets the input from fro
 
 ### What lessons did I learn from making this instrument? What might I improve on in future iterations?
 
+The biggest lesson that I learned in the making of this instrument is that hardware is not as scary as i thought. With enough patience and smart use of resources, hardware that fulfills your vision can be achieved. At the start of this process, I had never sautered before, or even built a circuit, so to be able to get everything working the way I wanted was something that I was proud of. One big moment in this process was when I streamlined my wiring and circuitry. After I did this, my buttons weren't working regardless of what I was trying. I tried different Arduinos, different bread boards, new wires, new buttons, and new sautering - but none of that resolved the issue. It ended up being the my circuitry had been incorrect the whole time, but through that process, I really learned how to debug hardware issues and to systematically go through all the possible issues that could be going on.
+
+I also learned a lot of Max MSP throughout this process that I had no idea about before. Through this instrument, I feel I learned a lot about how I prefer to program in Max (which if you are curious is with lots and lots of subpatches and color coding) and how to think like a Max programmer. It was a lot of fun taking my sound ideas and figuring out the best ways to program them. Especially since Max is not really meant to design games, I enjoyed determining how to best store information in a way that made the game playable and took advantage of what Max does naturally.
+
+In future iterations, I would like to change the shooting sample to be something that changes more directly in relation to the frequency, as at times it can be somewhat convoluted. I would also change how the knobs are implemented so the adjustments that are made to the frequency are centered around what the frequency was at before rather than just the frequency jumping to whatever the knob position indicates. I would also love to add some more interactables (such as asteroids) that will interact with the player shooting to add more depth to the generated sound scape. I would also love to more securely mount the sensors to the instrument so it doesn't feel as thrown together. 
+
+## Pictures and Figures
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
