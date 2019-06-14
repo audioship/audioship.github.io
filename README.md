@@ -33,3 +33,5 @@ In future iterations, I would like to change the shooting sample to be something
 ## Pictures and Figures
 
 ![Controller 1](https://raw.githubusercontent.com/audioship/audioship.github.io/master/controller1.jpg)
+![Controller 2](https://raw.githubusercontent.com/audioship/audioship.github.io/master/controller.jpg)
+![Display](https://raw.githubusercontent.com/audioship/audioship.github.io/master/displayScreen.PNG)
