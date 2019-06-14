@@ -1,6 +1,15 @@
 Joshua Fields • joshuafields2019@u.northwestern.edu • EECS 397: Digital Musical Instrument Design • Northwestern University • Prof. Stephan Moore
 
-### Markdown
+## Using the Instrument
+
+
+### Who is the expected user? 
+
+
+### Expected use case
+
+
+### How is the instrument played? What kinds of sounds are produced?
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
