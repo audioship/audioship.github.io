@@ -32,4 +32,4 @@ In future iterations, I would like to change the shooting sample to be something
 
 ## Pictures and Figures
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Controller 1](https://raw.githubusercontent.com/audioship/audioship.github.io/master/controller1.jpg)
